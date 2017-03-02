@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="course">
+        <item >-----</item>
+        <item >ACT</item>
+        <item >BSIT</item>
+        <item >BSCOE</item>
+    </string-array>
+    <string-array name="year">
+        <item >-----</item>
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+    </string-array>
+    <string-array name="campus">
+        <item >-----</item>
+        <item >LM</item>
+        <item >BANILAD</item>
+        <item >MAIN</item>
+    </string-array>
+
+</resources>
